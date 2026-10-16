@@ -44,6 +44,8 @@ Country and regional comparisons depend on available World Bank observations and
 
 The report connects to a local PostgreSQL database. To refresh it in another environment, configure the data source and sign in with your own credentials.
 
-![Global Electricity Access Dashboard](dashboard-overview.png)
+- [Download the Power BI report](./Electricity%20Access%20Dashboard.pbix)
+- [SQL analysis queries](./sql/dashboard_analysis.sql)
 
-Data source: [World Bank World Development Indicators](https://databank.worldbank.org/source/world-development-indicators)
+![Global Electricity Access Dashboard](./dashboard-overview.png.png)
+
