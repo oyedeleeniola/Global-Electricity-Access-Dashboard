@@ -39,4 +39,7 @@ Country and regional comparisons depend on available World Bank observations and
 
 ## Project files
 
-SQL scripts and the Power BI report will be listed here as they are added.
+- `Electricity Access Dashboard..pbix` — Power BI report.
+- `sql/dashboard_analysis.sql` — SQL queries for the dashboard’s prepared PostgreSQL tables.
+
+The report connects to a local PostgreSQL database. To refresh it in another environment, configure the data source and sign in with your own credentials.
