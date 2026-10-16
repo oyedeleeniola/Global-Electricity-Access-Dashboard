@@ -43,3 +43,7 @@ Country and regional comparisons depend on available World Bank observations and
 - `sql/dashboard_analysis.sql` — SQL queries for the dashboard’s prepared PostgreSQL tables.
 
 The report connects to a local PostgreSQL database. To refresh it in another environment, configure the data source and sign in with your own credentials.
+
+![Global Electricity Access Dashboard](dashboard-overview.png)
+
+Data source: [World Bank World Development Indicators](https://databank.worldbank.org/source/world-development-indicators)
