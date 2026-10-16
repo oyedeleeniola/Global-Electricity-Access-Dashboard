@@ -48,4 +48,6 @@ The report connects to a local PostgreSQL database. To refresh it in another env
 - [SQL analysis queries](./sql/dashboard_analysis.sql)
 
 ![Global Electricity Access Dashboard](./dashboard-overview.png.png)
+## Author
 
+ Eniola Oyedele
